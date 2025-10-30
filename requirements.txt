@@ -1,0 +1,10 @@
+torch>=2.1.0
+torchvision>=0.16.0
+opencv-python
+numpy
+pillow
+scikit-image
+hdbscan
+scikit-learn
+ultralytics>=8.0.0
+flask
